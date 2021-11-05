@@ -1,0 +1,44 @@
+﻿  ArrayManager.cpp
+s:\brainstorm\c++_projects\arraymanagerdll\arraymanagerdll\arraymanager.cpp(9): warning C4273: amsUP: несовместимая компоновка dll
+  s:\brainstorm\c++_projects\arraymanagerdll\arraymanagerdll\arraymanager.h(13): note: см. предыдущее определение "amsUP"
+s:\brainstorm\c++_projects\arraymanagerdll\arraymanagerdll\arraymanager.cpp(35): warning C4273: amsDOWN: несовместимая компоновка dll
+  s:\brainstorm\c++_projects\arraymanagerdll\arraymanagerdll\arraymanager.h(14): note: см. предыдущее определение "amsDOWN"
+s:\brainstorm\c++_projects\arraymanagerdll\arraymanagerdll\arraymanager.cpp(64): warning C4273: amiUP: несовместимая компоновка dll
+  s:\brainstorm\c++_projects\arraymanagerdll\arraymanagerdll\arraymanager.h(16): note: см. предыдущее определение "amiUP"
+s:\brainstorm\c++_projects\arraymanagerdll\arraymanagerdll\arraymanager.cpp(90): warning C4273: amiDOWN: несовместимая компоновка dll
+  s:\brainstorm\c++_projects\arraymanagerdll\arraymanagerdll\arraymanager.h(17): note: см. предыдущее определение "amiDOWN"
+s:\brainstorm\c++_projects\arraymanagerdll\arraymanagerdll\arraymanager.cpp(118): warning C4273: amfUP: несовместимая компоновка dll
+  s:\brainstorm\c++_projects\arraymanagerdll\arraymanagerdll\arraymanager.h(19): note: см. предыдущее определение "amfUP"
+s:\brainstorm\c++_projects\arraymanagerdll\arraymanagerdll\arraymanager.cpp(144): warning C4273: amfDOWN: несовместимая компоновка dll
+  s:\brainstorm\c++_projects\arraymanagerdll\arraymanagerdll\arraymanager.h(20): note: см. предыдущее определение "amfDOWN"
+s:\brainstorm\c++_projects\arraymanagerdll\arraymanagerdll\arraymanager.cpp(172): warning C4273: amdUP: несовместимая компоновка dll
+  s:\brainstorm\c++_projects\arraymanagerdll\arraymanagerdll\arraymanager.h(22): note: см. предыдущее определение "amdUP"
+s:\brainstorm\c++_projects\arraymanagerdll\arraymanagerdll\arraymanager.cpp(198): warning C4273: amdDOWN: несовместимая компоновка dll
+  s:\brainstorm\c++_projects\arraymanagerdll\arraymanagerdll\arraymanager.h(23): note: см. предыдущее определение "amdDOWN"
+s:\brainstorm\c++_projects\arraymanagerdll\arraymanagerdll\arraymanager.cpp(226): warning C4273: amcUP: несовместимая компоновка dll
+  s:\brainstorm\c++_projects\arraymanagerdll\arraymanagerdll\arraymanager.h(25): note: см. предыдущее определение "amcUP"
+s:\brainstorm\c++_projects\arraymanagerdll\arraymanagerdll\arraymanager.cpp(252): warning C4273: amcDOWN: несовместимая компоновка dll
+  s:\brainstorm\c++_projects\arraymanagerdll\arraymanagerdll\arraymanager.h(26): note: см. предыдущее определение "amcDOWN"
+s:\brainstorm\c++_projects\arraymanagerdll\arraymanagerdll\arraymanager.cpp(280): warning C4273: ambUP: несовместимая компоновка dll
+  s:\brainstorm\c++_projects\arraymanagerdll\arraymanagerdll\arraymanager.h(28): note: см. предыдущее определение "ambUP"
+s:\brainstorm\c++_projects\arraymanagerdll\arraymanagerdll\arraymanager.cpp(306): warning C4273: ambDOWN: несовместимая компоновка dll
+  s:\brainstorm\c++_projects\arraymanagerdll\arraymanagerdll\arraymanager.h(29): note: см. предыдущее определение "ambDOWN"
+s:\brainstorm\c++_projects\arraymanagerdll\arraymanagerdll\arraymanager.cpp(334): warning C4273: amwUP: несовместимая компоновка dll
+  s:\brainstorm\c++_projects\arraymanagerdll\arraymanagerdll\arraymanager.h(31): note: см. предыдущее определение "amwUP"
+s:\brainstorm\c++_projects\arraymanagerdll\arraymanagerdll\arraymanager.cpp(360): warning C4273: amwDOWN: несовместимая компоновка dll
+  s:\brainstorm\c++_projects\arraymanagerdll\arraymanagerdll\arraymanager.h(32): note: см. предыдущее определение "amwDOWN"
+s:\brainstorm\c++_projects\arraymanagerdll\arraymanagerdll\arraymanager.cpp(388): warning C4273: amstUP: несовместимая компоновка dll
+  s:\brainstorm\c++_projects\arraymanagerdll\arraymanagerdll\arraymanager.h(34): note: см. предыдущее определение "amstUP"
+s:\brainstorm\c++_projects\arraymanagerdll\arraymanagerdll\arraymanager.cpp(414): warning C4273: amstDOWN: несовместимая компоновка dll
+  s:\brainstorm\c++_projects\arraymanagerdll\arraymanagerdll\arraymanager.h(35): note: см. предыдущее определение "amstDOWN"
+s:\brainstorm\c++_projects\arraymanagerdll\arraymanagerdll\arraymanager.cpp(442): warning C4273: amlUP: несовместимая компоновка dll
+  s:\brainstorm\c++_projects\arraymanagerdll\arraymanagerdll\arraymanager.h(37): note: см. предыдущее определение "amlUP"
+s:\brainstorm\c++_projects\arraymanagerdll\arraymanagerdll\arraymanager.cpp(468): warning C4273: amlDOWN: несовместимая компоновка dll
+  s:\brainstorm\c++_projects\arraymanagerdll\arraymanagerdll\arraymanager.h(38): note: см. предыдущее определение "amlDOWN"
+     Создается библиотека S:\BrainStorm\C++_Projects\ArrayManagerDll\x64\Release\ArrayManagerDll.lib и объект S:\BrainStorm\C++_Projects\ArrayManagerDll\x64\Release\ArrayManagerDll.exp
+  Создание кода
+  18 of 78 functions (23.1%) were compiled, the rest were copied from previous compilation.
+    17 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ArrayManagerDll.vcxproj -> S:\BrainStorm\C++_Projects\ArrayManagerDll\x64\Release\ArrayManagerDll.dll
